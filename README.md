@@ -16,6 +16,8 @@ hopa cupa
 
 ## novi pasusu
 
+Izmene za metrge mastera
+
 ### Copyright
 
 2019 Dekica
