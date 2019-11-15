@@ -10,4 +10,8 @@ obican tekst
 
 traakakdjdj vnvv  mfjgn 
 
+ytytytyty
+
+hopa cupa
+
 ## novi pasusu
