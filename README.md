@@ -20,6 +20,8 @@ Izmene za metrge mastera
 
 Mrge grane u master
 
+#novi tekst za rebase
+
 ### Copyright
 
 2019 Dekica
