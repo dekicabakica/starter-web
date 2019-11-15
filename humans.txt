@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    svima
 
 # TECHNOLOGY COLOPHON
 
