@@ -20,7 +20,8 @@ Izmene za metrge mastera
 
 Mrge grane u master
 
-#novi tekst za rebase
+#novi tekst za rebase, jos teksta
+# dodATO
 
 ### Copyright
 
