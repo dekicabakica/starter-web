@@ -15,3 +15,7 @@ ytytytyty
 hopa cupa
 
 ## novi pasusu
+
+### Copyright
+
+2019 Dekica
