@@ -18,6 +18,8 @@ hopa cupa
 
 Izmene za metrge mastera
 
+Mrge grane u master
+
 ### Copyright
 
 2019 Dekica
